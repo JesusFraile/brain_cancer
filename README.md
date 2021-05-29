@@ -9,6 +9,6 @@ Vamos a hacer un pequeño análisis preexploratorio de los datos para tomar deci
 
 ![](https://raw.githubusercontent.com/JesusFraile/brain_cancer/main/images/count_data.png)
 
-Tenemos en total 2087 datos etiquetados como sanos y 2513 como con cancer. Esto supone una relación de 1:0,84 por tanto, podemos considerar a priori que estamos ante un conjunto de datos balanceado. 
+Tenemos en total 2087 datos etiquetados como sanos y 2513 como con cáncer. Esto supone una relación de 1:0,84 por tanto, podemos considerar a priori que estamos ante un conjunto de datos balanceado. 
 
 Representando a modo de ejemplo una serie de X imágenes vemos que 
