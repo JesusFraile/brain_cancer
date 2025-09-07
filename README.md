@@ -45,7 +45,7 @@ We observe a similar number of false positives and false negatives.
 Finally, the most common metrics for classification tasks were calculated:
 ![](https://raw.githubusercontent.com/JesusFraile/brain_cancer/main/images/metrics.PNG)
 
-##Other Considerations
+## Other Considerations
 
 As mentioned earlier, the decision was made not to unfreeze and train all layers of the model. In addition, various oversampling techniques were tested, such as rotations, mirroring, and Gaussian noise, with the aim of improving performance. However, these were excluded, as their cost-benefit ratio was negligible.
 
